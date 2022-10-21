@@ -1,0 +1,13 @@
+keras_tuner==1.1.0
+matplotlib==3.3.2
+nltk==3.5
+numpy==1.18.5
+pandas==1.0.5
+scikit_learn==1.1.2
+seaborn==0.10.1
+spacy==2.3.2
+tensorflow==2.7.0
+torch==1.7.1
+torchmetrics==0.7.0
+torchtext==0.8.0
+tqdm==4.47.0
